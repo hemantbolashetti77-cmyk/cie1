@@ -1,0 +1,5 @@
+print("--Student Details")
+print("Student Name: Hemant")
+print("Student Age: 20")
+print("Student USN: 171")
+print("Student Address: Nargund")
